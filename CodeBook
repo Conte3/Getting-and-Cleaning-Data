@@ -18,10 +18,10 @@ wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded acce
 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz."
 
 The tidy file, contains the following columns:
-1. SubjectID: Regarding the 30 subjects performing the activities;
+1. SubjectID: Regarding the 30 subjects performing the activities
 2. ActivityLabelName: Determining which of the 6 activities are being measured (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
-3. variable: Name of the Feature measure. List presented bellow.
-4. value: Average per subject, per activity and per feature.
+3. variable: Name of the Feature measure. List presented bellow
+4. value: Average per subject, per activity and per feature
 
 #### List of Features
 
